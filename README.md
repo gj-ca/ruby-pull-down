@@ -15,5 +15,3 @@
     1. Push to master in your fork:<br/>
      `git push origin master`
 
-## List of challenge branches
-* 01_ruby_intro
